@@ -1,0 +1,60 @@
+[submodule "godot-3d-multiplayer-basic"]
+	path = godot-3d-multiplayer-basic
+	url = git@github.com:garbajyt/godot-3d-multiplayer-basic.git
+[submodule "godot-ads"]
+	path = godot-ads
+	url = git@github.com:garbajyt/godot-ads.git
+[submodule "godot-melee-weapons"]
+	path = godot-melee-weapons
+	url = git@github.com:garbajyt/godot-melee-weapons.git
+[submodule "godot-bullet-decals"]
+	path = godot-bullet-decals
+	url = git@github.com:garbajyt/godot-bullet-decals.git
+[submodule "godot-assault-rifle"]
+	path = godot-assault-rifle
+	url = git@github.com:garbajyt/godot-assault-rifle.git
+[submodule "godot-weapon-pickup-system"]
+	path = godot-weapon-pickup-system
+	url = git@github.com:garbajyt/godot-weapon-pickup-system.git
+[submodule "improved-fps-controller"]
+	path = improved-fps-controller
+	url = git@github.com:garbajyt/improved-fps-controller.git
+[submodule "godot-sniper-rifle"]
+	path = godot-sniper-rifle
+	url = git@github.com:garbajyt/godot-sniper-rifle.git
+[submodule "godot-hitscan-weapons"]
+	path = godot-hitscan-weapons
+	url = git@github.com:garbajyt/godot-hitscan-weapons.git
+[submodule "godot-basic-state-machine"]
+	path = godot-basic-state-machine
+	url = git@github.com:garbajyt/godot-basic-state-machine.git
+[submodule "video-game-dummy-model"]
+	path = video-game-dummy-model
+	url = git@github.com:garbajyt/video-game-dummy-model.git
+[submodule "godot-3.2-stop-on-slope"]
+	path = godot-3.2-stop-on-slope
+	url = git@github.com:garbajyt/godot-3.2-stop-on-slope.git
+[submodule "godot-basic-fps-controller"]
+	path = godot-basic-fps-controller
+	url = git@github.com:garbajyt/godot-basic-fps-controller.git
+[submodule "godot-weapon-switching"]
+	path = godot-weapon-switching
+	url = git@github.com:garbajyt/godot-weapon-switching.git
+[submodule "godot-move-objects"]
+	path = godot-move-objects
+	url = git@github.com:garbajyt/godot-move-objects.git
+[submodule "godot-fps-sprinting"]
+	path = godot-fps-sprinting
+	url = git@github.com:garbajyt/godot-fps-sprinting.git
+[submodule "godot-raycasting-with-code"]
+	path = godot-raycasting-with-code
+	url = git@github.com:garbajyt/godot-raycasting-with-code.git
+[submodule "godot-wall-running"]
+	path = godot-wall-running
+	url = git@github.com:garbajyt/godot-wall-running.git
+[submodule "godot-projectile-weapons"]
+	path = godot-projectile-weapons
+	url = git@github.com:garbajyt/godot-projectile-weapons.git
+[submodule "godot-basic-grappling-hook"]
+	path = godot-basic-grappling-hook
+	url = git@github.com:garbajyt/godot-basic-grappling-hook.git
